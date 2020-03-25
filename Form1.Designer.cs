@@ -216,6 +216,7 @@
             this.Controls.Add(this.NorthAmericaTimeZone1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
+            this.Text = "Omri Wallish And Neta Levy - Time Zones";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
