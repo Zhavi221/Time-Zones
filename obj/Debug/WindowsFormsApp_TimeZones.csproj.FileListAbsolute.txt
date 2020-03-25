@@ -1,0 +1,9 @@
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\bin\Debug\WindowsFormsApp_TimeZones.exe.config
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\bin\Debug\WindowsFormsApp_TimeZones.exe
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\bin\Debug\WindowsFormsApp_TimeZones.pdb
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\obj\Debug\WindowsFormsApp_TimeZones.csprojAssemblyReference.cache
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\obj\Debug\WindowsFormsApp_TimeZones.Form1.resources
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\obj\Debug\WindowsFormsApp_TimeZones.Properties.Resources.resources
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\obj\Debug\WindowsFormsApp_TimeZones.csproj.GenerateResource.cache
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\obj\Debug\WindowsFormsApp_TimeZones.exe
+C:\Users\Neta Levy\source\repos\WindowsFormsApp_TimeZones\obj\Debug\WindowsFormsApp_TimeZones.pdb
